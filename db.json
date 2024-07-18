@@ -1,0 +1,29 @@
+{
+  "transitions": [
+    {
+      "id": 1,
+      "name": "Go To SomeThing",
+      "Price": 100000
+    },
+    {
+      "id": 2,
+      "name": "Go To SomeThingElse",
+      "Price": 300000
+    },
+    {
+      "id": 3,
+      "name": "Go To SomeThingElse4",
+      "Price": 300000
+    },
+    {
+      "id": 4,
+      "name": "Go To SomeThingElseadadad",
+      "Price": 300000
+    },
+    {
+      "id": 5,
+      "name": "Go To ",
+      "Price": 300000
+    }
+  ]
+}
